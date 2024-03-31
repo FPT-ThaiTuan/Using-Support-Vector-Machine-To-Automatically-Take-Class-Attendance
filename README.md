@@ -17,3 +17,10 @@
 
 - There is no need for specialized hardware for installing the system as it only uses a computer and a camera. The camera plays a crucial role in the working of the system hence the image quality and performance of the camera in real time scenario must be tested especially if the system is operated from a live camera feed. As long as the picture capture conditions (e.g., light, face, distance and expressions) are constant, face recognition accuracy is approximately 80%. The training dataset should be updated timely to match with students’ changes.
 
+**Hope this article can help you.**
+
+**If you have any questions please contact me for help!**
+
+**Gmail: tuanddt.ai.work@gmail.com**
+
+***Thanks everyone!***
